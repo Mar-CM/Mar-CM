@@ -29,5 +29,5 @@ Let's go for it! 🚀
 
 ## Contact to me 🌍
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mar-caballero-moryno-511398204)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mar-caballero-moryno-511398204)
 
